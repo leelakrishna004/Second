@@ -2,3 +2,7 @@ git pull https://#############
 git add .
 git commit -m " ###"
 git push -u origin master
+
+In STS , click on Window > Show View > Other > Clone Repository and add to the view > open in project explorer 
+
+> Right click on the project > In team you will find the options you need 
