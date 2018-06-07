@@ -6,3 +6,5 @@ git push -u origin master
 In STS , click on Window > Show View > Other > Clone Repository and add to the view > open in project explorer 
 
 > Right click on the project > In team you will find the options you need 
+
+> //Add the things when new projects are created as well 
